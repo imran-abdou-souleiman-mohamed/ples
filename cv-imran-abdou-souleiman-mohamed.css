@@ -1,0 +1,62 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .LesTitres {
+    font-style: italic;
+    color: red;
+    text-decoration: underline overline ;
+ }
+    
+
+
+ #HeaderUno img  {
+    box-shadow: 10px 5px 5px black;
+        border-radius: 50%;
+ }
+#MesInfos {
+    
+}
+ .LesArticles {
+    margin-left: 200px;
+    margin-right: 200px;
+    
+ }
+ .LesArticles img {
+
+ }
+ footer img {
+    margin-inline: 30px;
+    height: 100px; 
+    width: 100px;
+ }
+ section {
+    background-color: whitesmoke;
+    margin: 20px 120px;
+    border: 4mm ridge black;
+    border-radius: 5%;
+    box-shadow: 15px 10px 10px black;
+ }
+ #MyUl {
+    display: inline-block;
+    text-align: left;
+
+ }
+ #LaListe img {
+    width: 50px;
+    height: 50px;
+ }
+ #MyUl img{
+width: 30px;
+height: 30px;
+ }
+ h3 {
+   font-weight:bolder;
+ }
+ #WeAreVideo {
+   border: solid rgba(245, 245, 245, 0.769);
+   border-radius: 20px;
+ }
+
